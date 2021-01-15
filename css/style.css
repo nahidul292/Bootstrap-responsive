@@ -1,0 +1,95 @@
+.head-color{
+    color: #FABE4C;
+    font-weight: 700;
+}
+.top-container{
+    background-color: #FFFBF0;
+    padding-bottom: 50px;
+}
+.first-sec{
+    margin-top: 35px;
+}
+.greeting{
+    margin-top: 180px;
+    margin-right: 100px;
+}
+h1{
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.btn.btn-success{
+    width: 120px;
+    height: 50px;
+    background-color: #A4BC46;
+    border-radius: 8px;
+}
+.second-heading{
+    font-size: 30px;
+    margin-left: 25px;
+    font-weight: 700;
+}
+.woman-jacket img{
+    width: 300px;
+    height: 300px;
+    background-color: #F1F1F1;
+    padding: 10px;
+    border-radius: 20px;
+    margin:15px 60px;
+}
+.cards-body img{
+    height: 85px;
+    width: 82px;
+    margin-right: 15px;
+}
+.cards-body{
+    border-radius: 20px;
+    width: 425px;
+    height: 125px;
+    float: left;
+}
+.cards-3{
+    margin-bottom: 25px;
+    border: 0;
+}
+.menubar{
+    padding-left: 250px;
+}
+.nav-menubar{
+    margin-left: 35px;
+    font-size:20px;
+    color: black;
+    font-weight: 700;
+}
+#subscribe{
+    background-color:powderblue;
+}
+.contactfr{
+    padding-bottom: 25px;
+    margin:15px;
+}
+.ecom-footer{
+    border:0;
+    background-color: white;
+}
+.ecom-card{
+    border: 0;
+    border-radius: 25px;
+}
+footer {
+    background: #343a40;
+    padding: 40px;
+}
+footer a {
+    color: #f8f9fa!important
+}
+@media (max-width:668){
+    .detailblock{
+        flex-direction: column;
+    }
+}
